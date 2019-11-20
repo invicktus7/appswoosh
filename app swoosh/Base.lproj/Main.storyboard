@@ -147,7 +147,7 @@
                                             <constraint firstAttribute="height" constant="50" id="0Mi-gC-Vxo"/>
                                         </constraints>
                                         <fontDescription key="fontDescription" name="Avenir-Medium" family="Avenir" pointSize="17"/>
-                                        <state key="normal" title="Co-ed">
+                                        <state key="normal" title="JOHNSON">
                                             <color key="titleColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                         </state>
                                     </button>
