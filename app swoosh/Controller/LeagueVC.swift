@@ -16,6 +16,16 @@ class LeagueVC: UIViewController {
         // Do any additional setup after loading the view.
     }
     
+    @IBAction func onNextTapped(_ sender: Any) {
+        // you do this when you want to click either female or male:
+//        if (menWasSelected) {
+//            performSegue(withIdentifier: "skillVCSegue", sender: self)
+//        } else {
+//            performSegue(withIdentifier: "Womens", sender: self)
+//        }
+          performSegue(withIdentifier: "skillVCSegue", sender: self)
+       }
+    
 
     /*
     // MARK: - Navigation
